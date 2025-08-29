@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Tianrui ZHAO is currently a Ph.D. candidate in Economics at the Institute of Japan Studies, Nankai University. His research focuses on political economy, state capacity, and institutional change in historical contexts, with a particular interest in comparative studies of China, Japan. He has published in leading Chinese journals such as Research of Institutional Economics, Economic Theory and Business Management, and Nankai Economic Studies, and has presented his work at international conferences including the Asia-Pacific Economic and Business History Conference (APEBH) and the Chinese Economic History Society Annual Conference.
+My name is Tianrui Zhao, and I am a Ph.D. candidate in Economics at the Institute of Japan Studies, Nankai University. My research lies at the intersection of political economy, economic history, institutional economics, and cliometrics. I am particularly interested in how state capacity, social conflicts, and institutional change shaped long-term development, with a focus on comparative perspectives from China, Japan, and Europe.
+
+I have published in journals such as Research of Institutional Economics, Economic Theory and Business Management, and Nankai Economic Studies. I also regularly present my work at academic conferences, including the Asia-Pacific Economic and Business History Conference (APEBH) and the Chinese Economic History Society Annual Conference.
+
+You can find my CV here: 
 
 
 
