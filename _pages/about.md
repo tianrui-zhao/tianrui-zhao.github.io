@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianrui ZHAO"
+title: "Tianrui ZHAO （赵天睿）"
 author_profile: true
 redirect_from: 
   - /about/
