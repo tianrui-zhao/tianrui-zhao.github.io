@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文/日本語"
+title: "More Language"
 permalink: /about2/
 author_profile: true
 redirect_from:
