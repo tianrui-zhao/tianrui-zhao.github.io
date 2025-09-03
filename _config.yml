@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tianrui ZHAO"
+title                    : "Tianrui ZHAO （赵天睿）"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile2.png"
   name             : "Tianrui ZHAO"
-  bio              : "Phd. candidate in Economics"
+  bio              : "Ph.D. candidate in Economics"
   location         : "Tianjin"
   employer         : "Nankai University"
   uri              : "https://tianrui-zhao.github.io/website/"
