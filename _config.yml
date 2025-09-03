@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://tianrui-zhao.github.io/website/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : https://tianrui-zhao.github.io/website/
 repository               : "https://tianrui-zhao.github.io/website/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
