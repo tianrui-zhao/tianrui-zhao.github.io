@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tianrui Zhao, and I am a Ph.D. candidate in Economics at the Institute of Japan Studies, Nankai University. My research lies at the intersection of political economy, economic history, institutional economics, and cliometrics. I am particularly interested in how state capacity, social conflicts, and institutional change shaped long-term development, with a focus on comparative perspectives from China, Japan, and Europe.
+Tianrui Zhao is a Ph.D. candidate in Economics at the Institute of Japan Studies, Nankai University. His research focuses on the intersection of political economy, economic history, institutional economics, and cliometrics. He is particularly interested in how state capacity, social conflicts, and institutional change have shaped long-term development, with a comparative perspective.
 
