@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Tianrui ZHAO"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://tianrui-zhao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://tianrui-zhao.github.io"
+repository               : "tianrui-zhao/tianrui-zhao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
