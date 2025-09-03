@@ -15,6 +15,10 @@ Education
 * Master in Economics (major: Economic History), Nankai Institute of Economics, School of Economics, Nankai University, 2023;
 * Bachelor of Economics, Department of Economics, School of Economics, Nankai University, 2020.
 
+Research Interests
+======
+Political Economy, Cliometrics, Economic History, Institutional Economics
+
 Skills
 ======
 * ArcGIS, LaTeX, MATLAB, R, Stata
@@ -44,5 +48,8 @@ Presentations
 * The 1st “Camphor Historical Economic Circle (CHEC) Conference”. Nanjing University, Nov. 2022.
 * The 2nd Symposium on “Economic Development and Ideological Evolution from Historical Perspective”. Xiamen University, Jun. 2022.
 * The 8th International Symposium on Quantitative History. Shanghai Jiao Tong University, Jul. 2021.
-  
-  
+
+Connect me
+======
+* Email: zhaotianrui_nku@gmail.com; zhaotianrui1997@126.com
+* Website: https://github.com/tianrui-zhao
