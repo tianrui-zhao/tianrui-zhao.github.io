@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Nankai University
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctoral program in Economics (major: World Economy), Institute of Japan Studies, Nankai University, at present;
+* Master in Economics (major: Economic History), Nankai Institute of Economics, School of Economics, Nankai University, 2023;
+* Bachelor of Economics, Department of Economics, School of Economics, Nankai University, 2020.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ArcGIS, LaTeX, MATLAB, R, Stata
+
+Language Proficiency
+======
+* Mandarin (native), English (fluent), Japanese (reading comprehension)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Keju system, local elites, and the evolution of traditional society: evidence from Song-Yuan China (in Chinese). Economic Theory and Business Management, Vol (6), 2024. With Ming Lei and Hongtu Deng.
+* Social heterogeneity, conflicts and the formation of nations: divergence of historical China and Japan (in Chinese). Research of Institutional Economics, Vol (2), 2024 (Cover paper). With Ming Lei and Hongtu Deng.
+* Local gentries and public utilities in modern China - evidence from Shandong (in Chinese). Nankai Economic Studies, Vol (11), 2022. With Ming Lei.
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* The “2025 Chinese Economic History Society Annual Conference”. Shanghai University of Finance and Economics, Aug. 2025.
+* The “2025 Asia-Pacific Economic and Business History Conference (APEBH)”. Monash University, Feb. 2025.
+* The 6th “Conference of Chinese Foreign Economic History Society”. Guangzhou University, Jun. 2024.
+* The “Beijing-Tianjin Quantitative Economic History Young Scholars Teaching and Academic Seminar”. Tsinghua University, Dec. 2023.
+* The 1st “Camphor Historical Economic Circle (CHEC) Conference”. Nanjing University, Nov. 2022.
+* The 2nd Symposium on “Economic Development and Ideological Evolution from Historical Perspective”. Xiamen University, Jun. 2022.
+* The 8th International Symposium on Quantitative History. Shanghai Jiao Tong University, Jul. 2021.
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
