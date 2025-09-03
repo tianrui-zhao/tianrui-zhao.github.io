@@ -49,7 +49,9 @@ Presentations
 * The 2nd Symposium on “Economic Development and Ideological Evolution from Historical Perspective”. Xiamen University, Jun. 2022.
 * The 8th International Symposium on Quantitative History. Shanghai Jiao Tong University, Jul. 2021.
 
-Connect me
+Contact Information
 ======
 * Email: zhaotianrui_nku@gmail.com; zhaotianrui1997@126.com
 * Website: https://github.com/tianrui-zhao
+* Address: No.94 Weijin Road, Nankai District, Tianjin, P.R. China
+* Postal code: 300071
