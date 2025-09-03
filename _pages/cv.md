@@ -28,8 +28,14 @@ Publications
 * Keju system, local elites, and the evolution of traditional society: evidence from Song-Yuan China (in Chinese). Economic Theory and Business Management, Vol (6), 2024. With Ming Lei and Hongtu Deng.
 * Social heterogeneity, conflicts and the formation of nations: divergence of historical China and Japan (in Chinese). Research of Institutional Economics, Vol (2), 2024 (Cover paper). With Ming Lei and Hongtu Deng.
 * Local gentries and public utilities in modern China - evidence from Shandong (in Chinese). Nankai Economic Studies, Vol (11), 2022. With Ming Lei.
+
+Working Papers
+======
+* The twinge of transition: centralization, state capacity, and social conflicts: evidence from Tokugawa and Meiji Japan. Working Paper. With Ming Lei and Rui Wang.
+* Natural disaster, relief policy and the state-building: a historical comparative institutional analysis of premodern China, Japan and England. Working paper. With Ming Lei.
+* Exploitation and efficiency - the “contractor + indentured worker” system from a principal-agent perspective: evidence from the labor market in modern Shanghai (in Chinese). With Ming Lei and Yan Zhao.
   
-Talks
+Presentations
 ======
 * The “2025 Chinese Economic History Society Annual Conference”. Shanghai University of Finance and Economics, Aug. 2025.
 * The “2025 Asia-Pacific Economic and Business History Conference (APEBH)”. Monash University, Feb. 2025.
