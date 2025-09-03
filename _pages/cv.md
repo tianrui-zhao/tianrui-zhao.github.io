@@ -17,7 +17,7 @@ Education
 
 Research Interests
 ======
-Political Economy, Cliometrics, Economic History, Institutional Economics
+* Political Economy, Cliometrics, Economic History, Institutional Economics
 
 Skills
 ======
@@ -51,7 +51,9 @@ Presentations
 
 Contact Information
 ======
-* Email: zhaotianrui_nku@gmail.com; zhaotianrui1997@126.com
-* Website: https://github.com/tianrui-zhao
+* Email:
+** zhaotianrui_nku@gmail.com
+** zhaotianrui1997@126.com
+* Website: https://tianrui-zhao.github.io/
 * Address: No.94 Weijin Road, Nankai District, Tianjin, P.R. China
 * Postal code: 300071
