@@ -22,7 +22,7 @@ repository               : "tianrui-zhao/tianrui-zhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/profile.png"
+  avatar           : "profile2.png"
   name             : "Tianrui ZHAO"
   bio              : "Phd. candidate in Economics"
   location         : "Tianjin"
