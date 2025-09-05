@@ -7,7 +7,7 @@ excerpt: 'This paper examines the social and political impact of China’s imper
 date: 2024-12-16
 venue: 'Economic Theory and Business Management'
 paperurl: 'http://jjll.ruc.edu.cn/EN/Y2024/V44/I12/111'
-citation: 'Lei, Ming, Zhao, Tianrui, and Deng, Hongtu. 2024. Keju System, Local Elites, and the Evolution of Traditional Society: Evidence from Song-Yuan China [Keju Zhidu, Difang Shishen, yu Chuantong Shehui de Yanbian: Song-Yuan Zhongguo de Zhengju]. Economic Theory and Business Management [Jingji Lilun yu Jingying Guanli], Vol. 6. page 111-128'
+citation: 'Lei, Ming, Zhao, Tianrui, and Deng, Hongtu. 2024. Keju System, Local Elites, and the Evolution of Traditional Society: Evidence from Song-Yuan China [Keju Zhidu, Difang Shishen, yu Chuantong Shehui de Yanbian: Song-Yuan Zhongguo de Zhengju]. Economic Theory and Business Management [Jingji Lilun yu Jingying Guanli], Vol. 6. 111-128'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
