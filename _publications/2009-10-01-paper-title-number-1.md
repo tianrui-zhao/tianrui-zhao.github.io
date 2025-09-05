@@ -7,6 +7,6 @@ excerpt: ' Local Gentries were the key groups of local governing in the imperial
 date: 2022-11-01
 venue: "Nankai Economic Studies, Vol. 11"
 paperurl: "https://doi.org/10.14116/j.nkes.2022.11.011"
-citation: "Lei, Ming, and Zhao, Tianrui. 2022. Local Gentries and Public Utilities in Modern China: Evidence from Shandong [Keju Shishen yu Jindai Shehui Jianshe — Jiyu Shandong de Yanjiu]. Nankai Economic Studies [Nankai Jingji Yanjiu], Vol. 11, 189–208.; 雷鸣, 赵天睿, 2022. 科举士绅与近代社会建设——基于山东的研究. 南开经济研究, Vol. 11, 189–208."
+中文: "雷鸣, 赵天睿, 2022. 科举士绅与近代社会建设——基于山东的研究. 南开经济研究, Vol. 11, 189–208."
 ---
 
