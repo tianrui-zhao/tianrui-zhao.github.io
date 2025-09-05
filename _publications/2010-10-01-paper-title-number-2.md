@@ -8,7 +8,7 @@ date: 2024-6-01
 venue: 'Research of Institutional Economics'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://dianda.cqvip.com/Qikan/Article/Detail?id=00002EGNL5787JP0MHDO7JP1MNR'
-中文: '雷鸣, 赵天睿, 邓宏图, 2024. 社会异质性、冲突威胁与国家权力结构和政府规模——对中、日历史发展路径的比较制度分析. 制度经济学研究 Vol2, 1–34.'
+citation: 'Lei, Ming, Zhao, Tianrui, and Deng, Hongtu. 2024. Social Heterogeneity, Conflict Threats, and the Structure of State Power and Government Size: A Comparative Institutional Analysis of Historical Development Paths in China and Japan [Shehui Yizhixing, Chongtu Weixie yu Guojia Quanli Jiegou he Zhengfu Guimo — Dui Zhong, Ri Lishi Fazhan Lujing de Bijiao Zhidu Fenxi]. Journal of Institutional Economics Research [Zhidu Jingjixue Yanjiu], Vol. 2, 1–34.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
