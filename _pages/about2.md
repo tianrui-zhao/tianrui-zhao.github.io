@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "More Language"
+title: "Contact Information"
 permalink: /about2/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Contact Information
-======
+
 * Email 1: zhaotianrui_nku@gmail.com
 * Email 2: zhaotianrui1997@126.com
 * Website: https://tianrui-zhao.github.io/
