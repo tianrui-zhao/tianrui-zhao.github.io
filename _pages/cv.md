@@ -36,7 +36,7 @@ Publications
 Working Papers
 ======
 * The twinge of transition: centralization, state capacity, and social conflicts: evidence from Tokugawa and Meiji Japan. Working Paper. With Ming Lei and Rui Wang.
-* Natural disaster, relief policy and the state-building: a historical comparative institutional analysis of premodern China, Japan and England. Working paper. With Ming Lei.
+* Disaster Shocks, Relief Institutions, and the “Great Divergence” under the State Building: A Comparative Analysis of Pre-modern China, Japan, and England. Working paper. With Ming Lei.
 * Exploitation and efficiency - the “contractor + indentured worker” system from a principal-agent perspective: evidence from the labor market in modern Shanghai (in Chinese). With Ming Lei and Yan Zhao.
   
 Presentations
@@ -49,10 +49,4 @@ Presentations
 * The 2nd Symposium on “Economic Development and Ideological Evolution from Historical Perspective”. Xiamen University, Jun. 2022.
 * The 8th International Symposium on Quantitative History. Shanghai Jiao Tong University, Jul. 2021.
 
-Contact Information
-======
-* Email 1: zhaotianrui_nku@gmail.com
-* Email 2: zhaotianrui1997@126.com
-* Website: https://tianrui-zhao.github.io/
-* Address: No.94 Weijin Road, Nankai District, Tianjin, P.R. China
-* Postal code: 300071
+
