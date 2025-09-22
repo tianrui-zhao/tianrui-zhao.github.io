@@ -9,14 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-中文
+Contact Information
 ======
-* 赵天睿是南开大学日本研究院经济学博士研究生。他的研究聚焦于政治经济学、经济史、制度经济学及计量史学的交叉领域。他特别关注国家能力、社会冲突和制度变迁如何影响长期发展，并以中国、日本和欧洲的比较视角进行研究。
-
-
-
-日本語
-======
-* 趙天睿（チョウ・テンルイ）は南開大学日本研究院の経済学博士課程の学生である。彼の研究は、政治経済学、経済史、制度経済学、および計量歴史学の交差領域に焦点を当てている。特に、国家能力、社会的紛争、制度変化が長期的な発展にどのように影響を与えるかに関心があり、中国、日本、ヨーロッパの比較視点から研究している。
+* Email 1: zhaotianrui_nku@gmail.com
+* Email 2: zhaotianrui1997@126.com
+* Website: https://tianrui-zhao.github.io/
+* Address: No.94 Weijin Road, Nankai District, Tianjin, P.R. China
+* Postal code: 300071
