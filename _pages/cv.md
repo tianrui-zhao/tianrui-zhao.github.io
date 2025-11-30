@@ -29,10 +29,11 @@ Language Proficiency
 
 Publications
 ======
+* Exploitation and efficiency - the “contractor + indentured worker” system from a principal-agent perspective: evidence from the labor market in modern Shanghai. Nankai Journal, Vol (6), 2025. With Ming Lei and Yan Zhao.
 * Keju system, local elites, and the evolution of traditional society: evidence from Song-Yuan China (in Chinese). Economic Theory and Business Management, Vol (6), 2024. With Ming Lei and Hongtu Deng.
 * Social heterogeneity, conflicts and the formation of nations: divergence of historical China and Japan (in Chinese). Research of Institutional Economics, Vol (2), 2024 (Cover paper). With Ming Lei and Hongtu Deng.
 * Local gentries and public utilities in modern China - evidence from Shandong (in Chinese). Nankai Economic Studies, Vol (11), 2022. With Ming Lei.
-* Exploitation and efficiency - the “contractor + indentured worker” system from a principal-agent perspective: evidence from the labor market in modern Shanghai. Forthcoming at Nankai Journal. With Ming Lei and Yan Zhao.
+
 
 Working Papers
 ======
@@ -42,6 +43,8 @@ Working Papers
   
 Presentations
 ======
+* The “International Seminar on China's Long-term Economic Development”. Liaoning University, Dec. 2025.
+* The “2025 Guangdong Economics Society 'Capital' Discussion Conference”. Guangzhou University and Sun-yat Sen University, Dec. 2025.
 * The “2025 Chinese Economic History Society Annual Conference”. Shanghai University of Finance and Economics, Aug. 2025.
 * The “2025 Asia-Pacific Economic and Business History Conference (APEBH)”. Monash University, Feb. 2025.
 * The 6th “Conference of Chinese Foreign Economic History Society”. Guangzhou University, Jun. 2024.
