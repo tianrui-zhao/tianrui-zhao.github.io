@@ -44,7 +44,7 @@ Working Papers
 Presentations
 ======
 * The “International Seminar on China's Long-term Economic Development”. Liaoning University, Dec. 2025.
-* The “2025 Guangdong Economics Society 'Capital' Discussion Conference”. Guangzhou University and Sun-yat Sen University, Dec. 2025.
+* The “2025 Guangdong Economics Society 'Capital (Das Kapital)' Discussion Conference”. Guangzhou University and Sun-yat Sen University, Dec. 2025.
 * The “2025 Chinese Economic History Society Annual Conference”. Shanghai University of Finance and Economics, Aug. 2025.
 * The “2025 Asia-Pacific Economic and Business History Conference (APEBH)”. Monash University, Feb. 2025.
 * The 6th “Conference of Chinese Foreign Economic History Society”. Guangzhou University, Jun. 2024.
