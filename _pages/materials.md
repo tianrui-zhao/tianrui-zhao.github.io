@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-- [Keju System, Local Elites, and the Evolution of Traditional Society — Evidence from Song-Yuan China (Appendix)](/files/keju.pdf)
+* [Keju System, Local Elites, and the Evolution of Traditional Society — Evidence from Song-Yuan China (Appendix)](/files/keju.pdf)
 * 
 * 
 * 
