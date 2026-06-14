@@ -39,6 +39,7 @@ Working Papers
 ======
 * The twinge of transition: centralization, state capacity, and social conflicts: evidence from Tokugawa and Meiji Japan. Working Paper. With Ming Lei and Rui Wang.
 * Disaster Shocks, Relief Institutions, and the “Great Divergence” under the State Building: A Comparative Analysis of Pre-modern China, Japan, and England. Working paper. With Ming Lei.
+* Climate Shocks, Social Stability, and Institutional Responses in the first-half 19th century Japan. Working paper. With Ming Lei and Rui Wang.
 
   
 Presentations
