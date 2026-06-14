@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Contact Information"
-permalink: /about2/
+title: "Supplementary materials"
+permalink: /materials/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-* Email 1: zhaotianrui_nku@gmail.com
-* Email 2: zhaotianrui1997@126.com
-* Website: https://tianrui-zhao.github.io/
-* Address: No.94 Weijin Road, Nankai District, Tianjin, P.R. China
-* Postal code: 300071
+* Keju System, Local Elites, and the Evolution of Traditional Society —— Evidence from Song-Yuan China: A.pdf
+* 
+* 
+* 
+* 
