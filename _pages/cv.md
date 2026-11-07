@@ -29,7 +29,7 @@ Language Proficiency
 
 Publications
 ======
-* Exploitation and efficiency - the “contractor + indentured worker” system from a principal-agent perspective: evidence from the labor market in modern Shanghai. Nankai Journal, Vol (6), 2025. With Ming Lei and Yan Zhao.
+* Exploitation and efficiency - the “contractor + indentured worker” system from a principal-agent perspective: evidence from the labor market in modern Shanghai. Nankai Journal, Vol (6), 2025. Reprinted in Modern China History (Issue 3, 2026), China Social Science Excellence. With Ming Lei and Yan Zhao.
 * Keju system, local elites, and the evolution of traditional society: evidence from Song-Yuan China (in Chinese). Economic Theory and Business Management, Vol (6), 2024. With Ming Lei and Hongtu Deng.
 * Social heterogeneity, conflicts and the formation of nations: divergence of historical China and Japan (in Chinese). Research of Institutional Economics, Vol (2), 2024 (Cover paper). With Ming Lei and Hongtu Deng.
 * Local gentries and public utilities in modern China - evidence from Shandong (in Chinese). Nankai Economic Studies, Vol (11), 2022. With Ming Lei.
@@ -40,10 +40,13 @@ Working Papers
 * The twinge of transition: centralization, state capacity, and social conflicts: evidence from Tokugawa and Meiji Japan. Working Paper. With Ming Lei and Rui Wang.
 * Disaster Shocks, Relief Institutions, and the “Great Divergence” under the State Building: A Comparative Analysis of Pre-modern China, Japan, and England. Working paper. With Ming Lei.
 * Climate Shocks, Social Stability, and Institutional Responses in the first-half 19th century Japan. Working paper. With Ming Lei and Rui Wang.
+* Bridging the State and Local Communities: Railway Expansion and Social Stability in Meiji Japan. Working paper. With Ming Lei and Rui Wang.
+* The Price of Survival: The Political Economy of Decentralization in Imperial China. Working paper. With Xiaongchang Lei and Rui Wang.
 
   
 Presentations
 ======
+* The 7th “Conference of Chinese Foreign Economic History Society”. Beijing Normal University University, Nov. 2026.
 * The 12th International Symposium on Quantitative History. Central China Normal University, Jul. 2026.
 * The 2nd “Historical Political Economy Conference”. Yunnan University, Jun. 2026.
 * The “International Seminar on China's Long-term Economic Development”. Liaoning University, Dec. 2025.
